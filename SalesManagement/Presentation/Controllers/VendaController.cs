@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesManagement.Application.DTOs;
 using SalesManagement.Application.Services;
-using System;
-using System.Threading.Tasks;
 
 namespace SalesManagement.Presentation.Controllers
 {

@@ -1,10 +1,6 @@
 ﻿using SalesManagement.Application.DTOs;
 using SalesManagement.Domain.Entities;
 using SalesManagement.Infrastructure.Persistence.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace SalesManagement.Application.Services
 {
